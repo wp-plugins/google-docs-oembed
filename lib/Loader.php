@@ -3,7 +3,7 @@
 /**
  * Register all actions and filters for the plugin
  *
- * @link       https://github.com/log-oscon/google-docs-oembed/
+ * @link       http://example.com
  * @since      1.0.0
  *
  * @package    GoogleDocsOembed
