@@ -6,7 +6,7 @@
  * A class definition that includes attributes and functions used across both the
  * public-facing side of the site and the dashboard.
  *
- * @link       https://github.com/log-oscon/google-docs-oembed/
+ * @link       http://example.com
  * @since      1.0.0
  *
  * @package    GoogleDocsOembed

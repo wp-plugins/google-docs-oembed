@@ -2,7 +2,7 @@
   "name": "google-docs-oembed",
   "version": "1.0.0",
   "description": "Embed Google documents, spreadsheets and presentations in your posts or pages.",
-  "license": "GPL-2.0+",
+  "license": "GPL",
   "repository": "log-oscon/google-docs-oembed",
   "author": [
     {
@@ -18,7 +18,6 @@
   ],
   "devDependencies": {
     "gulp": "^3.8.11",
-    "gulp-composer": "^0.1.0",
     "gulp-readme-to-markdown": "^0.1.1-1",
     "require-dir": "^0.3.0"
   },
