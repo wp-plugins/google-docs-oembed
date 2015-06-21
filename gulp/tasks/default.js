@@ -3,6 +3,6 @@
 
   var gulp = require( 'gulp' );
 
-  gulp.task( 'default', [ 'readme' ]);
+  gulp.task( 'default', [ 'build' ]);
 
 })();

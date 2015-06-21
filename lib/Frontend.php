@@ -3,7 +3,7 @@
 /**
  * The public-facing functionality of the plugin.
  *
- * @link       http://example.com
+ * @link       https://github.com/log-oscon/google-docs-oembed/
  * @since      1.0.0
  *
  * @package    GoogleDocsOembed
@@ -116,7 +116,7 @@ class Frontend {
 			\esc_attr( $width ),
 			\esc_attr( $height ),
 			\esc_url( $base_url ),
-			\esc_attr( $extra )
+			$extra
 		), $matches, $attr, $url, $rawattr );
 
 	}
